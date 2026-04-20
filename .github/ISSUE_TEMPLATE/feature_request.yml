@@ -1,0 +1,32 @@
+name: Feature Request
+description: Propose a new capability, design direction, or protocol/documentation enhancement.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Please describe the outcome you want and why it matters for the project.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      placeholder: The MVP explains the protocol, but contributors cannot inspect a more interactive topology view.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      placeholder: Add an interactive network explorer with mock topology states and replay controls.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      placeholder: We could also extend the docs page with static diagrams, but that would be less compelling.
+  - type: textarea
+    id: impact
+    attributes:
+      label: User and repository impact
+      placeholder: This would improve the protocol demo value for investors, contributors, and researchers.

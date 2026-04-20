@@ -1,0 +1,37 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050816"/>
+  <rect x="34" y="34" width="1132" height="562" rx="34" stroke="url(#paint0_linear)" stroke-opacity="0.18"/>
+  <circle cx="998" cy="132" r="164" fill="#7CF29C" fill-opacity="0.08"/>
+  <circle cx="276" cy="492" r="188" fill="#6EE7F7" fill-opacity="0.08"/>
+  <path d="M167 178L346 266L516 200L692 312L983 212" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 452L341 362L516 430L744 376L1014 468" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M346 266L341 362" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M516 200L516 430" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M692 312L744 376" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="167" cy="178" r="14" fill="#6EE7F7"/>
+  <circle cx="346" cy="266" r="16" fill="#B7C7FF"/>
+  <circle cx="516" cy="200" r="18" fill="#7CF29C"/>
+  <circle cx="692" cy="312" r="15" fill="#6EE7F7"/>
+  <circle cx="983" cy="212" r="18" fill="#B7C7FF"/>
+  <circle cx="154" cy="452" r="14" fill="#7CF29C"/>
+  <circle cx="341" cy="362" r="17" fill="#6EE7F7"/>
+  <circle cx="516" cy="430" r="18" fill="#7CF29C"/>
+  <circle cx="744" cy="376" r="15" fill="#B7C7FF"/>
+  <circle cx="1014" cy="468" r="16" fill="#6EE7F7"/>
+  <text x="90" y="112" fill="#6EE7F7" fill-opacity="0.8" font-family="Space Grotesk, Arial, sans-serif" font-size="24" letter-spacing="10">NEUROMORPHIC SWARM PROTOCOL</text>
+  <text x="90" y="294" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">Synaptic Swarm</text>
+  <text x="90" y="382" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">Protocol (SYNS)</text>
+  <text x="90" y="456" fill="#C9D4FF" fill-opacity="0.86" font-family="IBM Plex Mono, monospace" font-size="28">MVP website, docs, demo flow, CI, release, and GitHub Pages deployment.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="90" y1="56" x2="1098" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7F7"/>
+      <stop offset="0.5" stop-color="#7CF29C"/>
+      <stop offset="1" stop-color="#B7C7FF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="154" y1="178" x2="1014" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7F7"/>
+      <stop offset="0.5" stop-color="#7CF29C"/>
+      <stop offset="1" stop-color="#B7C7FF"/>
+    </linearGradient>
+  </defs>
+</svg>

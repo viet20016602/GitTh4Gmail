@@ -1,0 +1,45 @@
+name: Bug Report
+description: Report a defect in the website, docs, workflow, or repository automation.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve SYNS. Please describe the bug as clearly as possible.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is broken?
+      placeholder: The protocol docs page fails to render on mobile widths.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps needed to reproduce the problem.
+      placeholder: |
+        1. Open the deployed site
+        2. Navigate to /docs
+        3. Resize to 390px width
+        4. Observe the layout shift
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: The docs cards should stack cleanly without overflow.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: Windows 11 / Chrome 136 / GitHub Pages
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, or notes that would help triage.

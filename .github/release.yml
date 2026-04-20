@@ -1,0 +1,18 @@
+changelog:
+  categories:
+    - title: Frontend
+      labels:
+        - ui
+        - frontend
+    - title: Protocol Docs
+      labels:
+        - documentation
+        - docs
+    - title: Automation
+      labels:
+        - ci
+        - infra
+        - release
+    - title: Other
+      labels:
+        - "*"
