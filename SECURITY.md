@@ -7,7 +7,7 @@ This repository is currently maintained as a single active line. Report vulnerab
 ## Reporting a vulnerability
 
 - Prefer GitHub Private Vulnerability Reporting if it is enabled for this repository
-- Otherwise email `support@solcomp.xyz` with the subject line `SYNS Security Report`
+- Otherwise email `support@solcomp.xyz` with the subject line `SolComp Security Report`
 - Include reproduction steps, impact, affected files or routes, and any suggested mitigation
 
 Please do not open public issues for undisclosed vulnerabilities.

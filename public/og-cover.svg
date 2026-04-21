@@ -18,10 +18,10 @@
   <circle cx="516" cy="430" r="18" fill="#7CF29C"/>
   <circle cx="744" cy="376" r="15" fill="#B7C7FF"/>
   <circle cx="1014" cy="468" r="16" fill="#6EE7F7"/>
-  <text x="90" y="112" fill="#6EE7F7" fill-opacity="0.8" font-family="Space Grotesk, Arial, sans-serif" font-size="24" letter-spacing="10">NEUROMORPHIC SWARM PROTOCOL</text>
-  <text x="90" y="294" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">Synaptic Swarm</text>
-  <text x="90" y="382" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">Protocol (SYNS)</text>
-  <text x="90" y="456" fill="#C9D4FF" fill-opacity="0.86" font-family="IBM Plex Mono, monospace" font-size="28">MVP website, docs, demo flow, CI, release, and GitHub Pages deployment.</text>
+  <text x="90" y="112" fill="#6EE7F7" fill-opacity="0.8" font-family="Space Grotesk, Arial, sans-serif" font-size="24" letter-spacing="10">SOLANA AI INFERENCE NARRATIVE</text>
+  <text x="90" y="294" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">SolComp</text>
+  <text x="90" y="382" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="4">Token: SOLC</text>
+  <text x="90" y="456" fill="#C9D4FF" fill-opacity="0.86" font-family="IBM Plex Mono, monospace" font-size="28">Powering the Age of Inference.</text>
   <defs>
     <linearGradient id="paint0_linear" x1="90" y1="56" x2="1098" y2="564" gradientUnits="userSpaceOnUse">
       <stop stop-color="#6EE7F7"/>

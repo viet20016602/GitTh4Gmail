@@ -1,6 +1,6 @@
-# Contributing to SYNS
+# Contributing to SolComp
 
-Thanks for helping improve Synaptic Swarm Protocol.
+Thanks for helping improve SolComp.
 
 ## Ground rules
 
@@ -32,4 +32,4 @@ Thanks for helping improve Synaptic Swarm Protocol.
 
 ## Design direction
 
-The project visual language should stay dark, protocol-oriented, and neural-system inspired. Preserve the existing typography, grid treatment, motion restraint, and glow palette unless a deliberate brand update is part of the change.
+The project visual language should stay dark, AI-native, and inference-oriented. Preserve the existing typography, grid treatment, motion restraint, logo usage, and glow palette unless a deliberate brand update is part of the change.

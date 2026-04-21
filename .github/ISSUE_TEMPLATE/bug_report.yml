@@ -5,7 +5,7 @@ labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: Thanks for helping improve SYNS. Please describe the bug as clearly as possible.
+      value: Thanks for helping improve SolComp. Please describe the bug as clearly as possible.
   - type: textarea
     id: summary
     attributes:

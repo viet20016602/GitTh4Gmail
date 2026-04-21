@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Terms",
-  description: "Terms note for the Synaptic Swarm Protocol MVP website.",
+  description: "Terms note for the SolComp project website and repository surface.",
 };
 
 export default function TermsPage() {
@@ -14,11 +14,11 @@ export default function TermsPage() {
         <h1 className="mt-4 text-4xl font-semibold text-white">Terms</h1>
         <div className="section-copy mt-6 space-y-4">
           <p>
-            The repository content is provided as an open-source MVP for experimentation, education, and protocol
+            The repository content is provided as an open-source MVP for experimentation, education, and project
             iteration. No production guarantees, token claims, or financial promises are implied by this demo.
           </p>
           <p>
-            If SYNS later exposes live infrastructure, APIs, staking, or economic mechanisms, these terms should be
+            If SolComp later exposes live infrastructure, APIs, staking, or economic mechanisms, these terms should be
             expanded to reflect the actual operational surface and jurisdictional requirements.
           </p>
           <p>

@@ -1,21 +1,21 @@
-# Synaptic Swarm Protocol (SYNS)
+# SolComp (SOLC)
 
 ## Overview
 
-Synaptic Swarm Protocol is a neuromorphic coordination concept for multi-agent systems. The MVP in this repository focuses on narrative clarity and launch readiness rather than a full production implementation.
+SolComp is positioned as a public AI-inference project narrative tied to the SOLC token identity. The MVP in this repository focuses on brand clarity, launch readiness, and a polished public-facing surface rather than a full production implementation.
 
-The protocol is framed around three linked ideas:
+The repository is framed around three linked ideas:
 
-- Pulses: structured observations or intents emitted into a shared bus
-- Coalitions: temporary agent groupings formed around relevant pulse clusters
-- Gradients: adaptive protocol memory that reinforces productive pathways
+- Inference demand: the macro narrative that AI inference is a defining compute market
+- SolComp identity: the project brand and website surface that packages the story
+- SOLC relevance: the token symbol connected to growth, visibility, and future utility
 
 ## MVP scope
 
 This repository delivers:
 
-- A public homepage for the protocol story and visual identity
-- A docs page for the execution loop and repo workflow
+- A public homepage for the SolComp story and visual identity
+- A docs page for project positioning and repo workflow
 - GitHub Pages deployment and tag-based release automation
 - Open-source repository governance files for contributors and maintainers
 
@@ -24,6 +24,6 @@ This repository delivers:
 Potential follow-on additions include:
 
 - Litepaper or whitepaper content
-- Tokenomics and network role definitions
-- Interactive topology explorer backed by live data
-- API reference or node operator handbook
+- Tokenomics and utility definitions for SOLC
+- Interactive data modules tied to inference or network activity
+- API reference, community docs, or ecosystem partner pages

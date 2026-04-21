@@ -1,8 +1,8 @@
 {
-  "name": "synaptic-swarm-protocol",
+  "name": "solcomp",
   "version": "0.1.0",
   "private": true,
-  "description": "MVP website and protocol demo for Synaptic Swarm Protocol (SYNS).",
+  "description": "MVP website and public project surface for SolComp (SOLC).",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

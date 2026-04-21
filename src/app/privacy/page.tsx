@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Privacy",
-  description: "Privacy note for the Synaptic Swarm Protocol MVP website.",
+  description: "Privacy note for the SolComp project website and repository surface.",
 };
 
 export default function PrivacyPage() {
@@ -14,8 +14,8 @@ export default function PrivacyPage() {
         <h1 className="mt-4 text-4xl font-semibold text-white">Privacy</h1>
         <div className="section-copy mt-6 space-y-4">
           <p>
-            This MVP website is a static protocol presentation. It does not ship user accounts, tracking scripts, or a
-            data collection backend by default.
+            This MVP website is a static project presentation for SolComp. It does not ship user accounts, tracking
+            scripts, or a data collection backend by default.
           </p>
           <p>
             If analytics, wallets, forms, or API telemetry are added later, this document should be updated before those

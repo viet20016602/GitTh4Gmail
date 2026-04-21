@@ -13,33 +13,32 @@ const plexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
-const defaultSiteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://viet20016602.github.io/SolComp";
+const defaultSiteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://solcomp.xyz/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultSiteUrl),
-  title: "Synaptic Swarm Protocol (SYNS)",
+  title: "SolComp | SOLC",
   description:
-    "Neuromorphic swarm intelligence protocol MVP website, docs, and public demo repository built with Next.js and TypeScript.",
+    "SolComp is a SOLC project narrative centered on AI inference, public branding, and the message Powering the Age of Inference.",
   keywords: [
-    "Synaptic Swarm Protocol",
-    "SYNS",
-    "neuromorphic swarm intelligence",
-    "multi-agent protocol",
-    "protocol demo",
-    "Next.js MVP",
+    "SolComp",
+    "SOLC",
+    "Powering the Age of Inference",
+    "Solana AI",
+    "AI inference",
+    "crypto project website",
   ],
   openGraph: {
-    title: "Synaptic Swarm Protocol (SYNS)",
-    description:
-      "A dark, protocol-native MVP experience for a neuromorphic swarm intelligence stack.",
+    title: "SolComp | SOLC",
+    description: "Powering the Age of Inference.",
     url: defaultSiteUrl,
-    siteName: "Synaptic Swarm Protocol",
+    siteName: "SolComp",
     images: [
       {
         url: "/og-cover.svg",
         width: 1200,
         height: 630,
-        alt: "Synaptic Swarm Protocol cover",
+        alt: "SolComp cover",
       },
     ],
     locale: "en_US",
@@ -47,12 +46,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Synaptic Swarm Protocol (SYNS)",
-    description: "Neuromorphic swarm intelligence protocol MVP website and demo repository.",
+    title: "SolComp | SOLC",
+    description: "Powering the Age of Inference.",
     images: ["/og-cover.svg"],
   },
   icons: {
-    icon: "/icon.svg",
+    icon: "/brand/logo.png",
   },
 };
 
