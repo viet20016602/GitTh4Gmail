@@ -42,16 +42,16 @@ or community member will ask:
 - Narrative: `Powering the Age of Inference`
 - Official website: [solcomp.xyz](https://solcomp.xyz/)
 - X / Twitter: [@SolComp_SOL](https://x.com/SolComp_SOL)
-- GitHub repository: [viet20016602/SolComp](https://github.com/viet20016602/SolComp)
-- Repository Pages build: [viet20016602.github.io/SolComp](https://viet20016602.github.io/SolComp/)
+- GitHub repository: [viet20016602/GitTh4Gmail](https://github.com/viet20016602/GitTh4Gmail)
+- Repository Pages build: [viet20016602.github.io/GitTh4Gmail](https://viet20016602.github.io/GitTh4Gmail/)
 
 ## Official links
 
 - Website: `https://solcomp.xyz/`
 - X / Twitter: `https://x.com/SolComp_SOL`
-- GitHub repository (browser): `https://github.com/viet20016602/SolComp`
-- GitHub repository (clone URL): `https://github.com/viet20016602/SolComp.git`
-- GitHub Pages build: `https://viet20016602.github.io/SolComp/`
+- GitHub repository (browser): `https://github.com/viet20016602/GitTh4Gmail`
+- GitHub repository (clone URL): `https://github.com/viet20016602/GitTh4Gmail.git`
+- GitHub Pages build: `https://viet20016602.github.io/GitTh4Gmail/`
 
 ## Project goals
 
@@ -305,7 +305,7 @@ This repository is configured for static export and GitHub Pages deployment.
 
 - Push to `main` to trigger the Pages workflow
 - Repository-hosted build URL:
-  `https://viet20016602.github.io/SolComp/`
+`https://viet20016602.github.io/GitTh4Gmail/`
 
 ### Official website
 

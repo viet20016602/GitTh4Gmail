@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://viet20016602.github.io/SolComp/sitemap.xml",
+    sitemap: "https://viet20016602.github.io/GitTh4Gmail/sitemap.xml",
   };
 }

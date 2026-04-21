@@ -35,10 +35,10 @@ export function RepoPulse() {
     async function load() {
       try {
         const [repoRes, releaseRes] = await Promise.all([
-          fetch("https://api.github.com/repos/viet20016602/SolComp", {
+          fetch("https://api.github.com/repos/viet20016602/GitTh4Gmail", {
             headers: { Accept: "application/vnd.github+json" },
           }),
-          fetch("https://api.github.com/repos/viet20016602/SolComp/releases/latest", {
+          fetch("https://api.github.com/repos/viet20016602/GitTh4Gmail/releases/latest", {
             headers: { Accept: "application/vnd.github+json" },
           }),
         ]);

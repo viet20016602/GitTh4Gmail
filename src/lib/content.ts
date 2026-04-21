@@ -1,7 +1,7 @@
-export const repoUrl = "https://github.com/viet20016602/SolComp";
+export const repoUrl = "https://github.com/viet20016602/GitTh4Gmail";
 export const socialUrl = "https://x.com/SolComp_SOL";
 export const officialSiteUrl = "https://solcomp.xyz/";
-export const pagesUrl = "https://viet20016602.github.io/SolComp/";
+export const pagesUrl = "https://viet20016602.github.io/GitTh4Gmail/";
 
 export const navLinks = [
   { label: "Modules", href: "#modules" },
@@ -146,7 +146,7 @@ export const officialLinks = [
   },
   {
     label: "GitHub repository",
-    value: "viet20016602/SolComp",
+    value: "viet20016602/GitTh4Gmail",
     href: repoUrl,
     status: "Source",
     note: "Public codebase, docs, releases, and repository workflow.",

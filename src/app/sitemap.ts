@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const baseUrl = "https://viet20016602.github.io/SolComp";
+const baseUrl = "https://viet20016602.github.io/GitTh4Gmail";
 
 export const dynamic = "force-static";
 

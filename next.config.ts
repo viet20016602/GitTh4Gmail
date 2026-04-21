@@ -8,8 +8,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isPagesBuild ? "/SolComp" : "",
-  assetPrefix: isPagesBuild ? "/SolComp/" : undefined,
+  basePath: isPagesBuild ? "/GitTh4Gmail" : "",
+  assetPrefix: isPagesBuild ? "/GitTh4Gmail/" : undefined,
 };
 
 export default nextConfig;

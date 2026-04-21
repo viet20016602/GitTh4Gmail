@@ -288,7 +288,7 @@ export default function Home() {
               </div>
               <div className="rounded-3xl border border-white/8 bg-slate-950/60 p-5">
                 <p className="terminal-text text-sm">
-                  {'release.publish({ website: "solcomp.xyz", social: "@SolComp_SOL", repo: "viet20016602/SolComp" })'}
+                  {'release.publish({ website: "solcomp.xyz", social: "@SolComp_SOL", repo: "viet20016602/GitTh4Gmail" })'}
                 </p>
               </div>
             </div>

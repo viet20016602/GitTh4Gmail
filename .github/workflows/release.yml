@@ -28,7 +28,7 @@ jobs:
       - name: Build static export
         env:
           GITHUB_PAGES: "true"
-          NEXT_PUBLIC_SITE_URL: "https://viet20016602.github.io/SolComp"
+          NEXT_PUBLIC_SITE_URL: "https://viet20016602.github.io/GitTh4Gmail"
         run: npm run build
 
       - name: Archive site export
