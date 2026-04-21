@@ -151,18 +151,18 @@ docs/
   workflows/              CI, Pages, and release workflows
 ```
 
-## Information flow
+## Process Flow
 
-The MVP follows a simple public information flow:
+The MVP follows a simple public process flow:
 
 ```mermaid
 flowchart TD
-    A[User lands on SolComp MVP] --> B[Reads project identity]
-    B --> C[Verifies official links]
-    C --> D[Checks GitHub public signals]
-    D --> E[Understands readiness state]
-    E --> F[Reviews roadmap and FAQ]
-    F --> G[Moves to website, X, or repository]
+    A["User lands on the SolComp MVP"] --> B["Reads project identity"]
+    B --> C["Verifies the official website and X profile"]
+    C --> D["Checks GitHub public signals"]
+    D --> E["Understands the current readiness state"]
+    E --> F["Reviews roadmap and FAQ"]
+    F --> G["Moves to the website, X, or repository"]
 ```
 
 ## Application flow
@@ -171,12 +171,12 @@ At a functional level, the current MVP behaves like this:
 
 ```mermaid
 flowchart LR
-    A[Static Next.js site] --> B[Render SolComp identity]
-    A --> C[Render official link hub]
-    A --> D[Render readiness and roadmap]
-    C --> E[User opens website, X, or GitHub]
-    A --> F[Client fetch to GitHub public API]
-    F --> G[Display repository visibility, release, and issue data]
+    A["Static Next.js site"] --> B["Render SolComp identity"]
+    A --> C["Render official link hub"]
+    A --> D["Render readiness and roadmap"]
+    C --> E["User opens the website, X, or GitHub"]
+    A --> F["Client fetch to the GitHub public API"]
+    F --> G["Display repository visibility, release, and issue data"]
 ```
 
 ## Project progress

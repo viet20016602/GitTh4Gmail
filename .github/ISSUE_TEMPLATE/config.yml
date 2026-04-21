@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Protocol docs
-  url: https://viet20016602.github.io/GitTh4Gmail/docs/
-    about: Review the published docs before opening a question-driven issue.
+  - name: Official website
+    url: https://solcomp.xyz/
+    about: Visit the main SolComp website for official project information.
   - name: SolComp social profile
     url: https://x.com/SolComp_SOL
-    about: Follow updates or share public feedback.
+    about: Follow updates or share public feedback on X.
