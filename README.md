@@ -1,4 +1,12 @@
-# Synaptic Swarm Protocol (SYNS)
+<p align="center">
+  <img src="./public/brand/logo.png" alt="Synaptic Swarm Protocol logo" width="220" />
+</p>
+
+<h1 align="center">Synaptic Swarm Protocol (SYNS)</h1>
+
+<p align="center">
+  Public MVP repository for a neuromorphic swarm intelligence protocol narrative, website, docs, and release pipeline.
+</p>
 
 Synaptic Swarm Protocol (SYNS) is a public MVP repository for a neuromorphic swarm intelligence protocol narrative. It ships a branded website, protocol documentation, governance files, CI, release automation, and static deployment for a GitHub-first launch.
 
@@ -60,7 +68,7 @@ docs/                Repository-side protocol notes
 
 ## Branding note
 
-The current repository uses a custom `SYNS` mark built in SVG so the project can launch immediately without waiting on a separate asset pipeline. If an official logo asset is provided later, replace the current mark in `src/components/brand-mark.tsx` and `src/app/icon.svg`.
+The repository README now uses the provided PNG logo for reliable GitHub rendering. The website itself still uses the in-app `SYNS` mark defined in `src/components/brand-mark.tsx` and `src/app/icon.svg`. If you want the website brand to match this new logo, those two files should be updated next.
 
 ## Governance
 
